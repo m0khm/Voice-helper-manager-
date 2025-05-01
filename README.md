@@ -2,7 +2,7 @@
 Voice helper(manager)
 
 ### Дерево проекта
-
+```
 voice-assistant/
 │  .env.example
 │  docker-compose.yml
@@ -32,4 +32,4 @@ voice-assistant/
 │            index.html
 │
 └─tests/                # pytest-минимумы
-
+```
